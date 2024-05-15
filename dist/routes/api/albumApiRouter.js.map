@@ -1,0 +1,1 @@
+{"version":3,"file":"albumApiRouter.js","sourceRoot":"","sources":["../../../src/routes/api/albumApiRouter.ts"],"names":[],"mappings":"AAAA,OAAO,OAAmB,MAAM,SAAS,CAAC;AAC1C,OAAO,eAAe,MAAM,sCAAsC,CAAC;AACnE,MAAM,MAAM,GAAW,OAAO,CAAC,MAAM,EAAE,CAAC;AAExC,MAAM,CAAC,GAAG,CAAC,MAAM,EAAE,eAAe,CAAC,SAAS,CAAC,CAAC;AAC9C,eAAe,MAAM,CAAC"}

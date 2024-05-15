@@ -1,0 +1,1 @@
+{"version":3,"file":"commentApiRouter.js","sourceRoot":"","sources":["../../../src/routes/api/commentApiRouter.ts"],"names":[],"mappings":"AAAA,OAAO,OAAmB,MAAM,SAAS,CAAC;AAC1C,OAAO,iBAAiB,MAAM,wCAAwC,CAAC;AACvE,MAAM,MAAM,GAAW,OAAO,CAAC,MAAM,EAAE,CAAC;AAExC,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,iBAAiB,CAAC,WAAW,CAAC,CAAC;AAC/C,eAAe,MAAM,CAAC"}
